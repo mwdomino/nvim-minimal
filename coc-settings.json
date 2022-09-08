@@ -1,0 +1,11 @@
+{
+  "solargraph.checkGemVersion": false,
+  "languageserver": {
+    "nix": {
+      "command": "rnix-lsp",
+      "filetypes": [
+        "nix"
+      ]
+    }
+  }
+}
